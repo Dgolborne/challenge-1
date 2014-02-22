@@ -1,10 +1,10 @@
 HEADING
 
-`Welcome to Riyad`
+`Welcome to Riyad` DONE
 
 SUB HEAD
 
-`Where A Traditional Past Meets A Modern Future.`
+`Where A Traditional Past Meets A Modern Future.` DONE
 
 IMAGE 1 FILE
 
